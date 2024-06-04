@@ -6,9 +6,9 @@ Explore my interactive election analysis dashboard created with Tableau! This da
 ## Question This Dashboard Answer:
 * Voting percentage of each state.
 * Total number of voters overall.
-* Number of genral and postal voter (polled votes).
+* Number of general and postal voter (polled votes).
 * Number of seat fought and won.
-* Male-Female canditates given by different parties and there percentage.
+* Male-Female candidates given by different parties and there percentage.
 
 ## NOTE:- 
 By clicking on the Election Commission log you would be directed to Election Commission of India's website.
